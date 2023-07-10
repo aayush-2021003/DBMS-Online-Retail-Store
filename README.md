@@ -2,6 +2,8 @@
 Using Python language and MYSQL, created an online retail store implementing the database concepts ensuring atomicity, consistency, isolation and durability.
 
 ### Scope:
+<img width="126" alt="2023-07-11 (2)" src="https://github.com/aayush-2021003/DBMS-Online-Retail-Store/assets/108550892/d40865af-12bd-413f-a2b3-6107a755f193">
+
 Today, due to the extremely fast-paced lives of people, it can be exhausting and time-consuming
 to visit different stores at different locations. Visiting a market and choosing the right product is
 cumbersome and may take several hours. Also, due to the recent COVID-19 pandemic, people
