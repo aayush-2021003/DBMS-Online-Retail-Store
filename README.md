@@ -24,7 +24,7 @@ efficiently with each other, resulting in a pleasant experience for all.
 ### Functionalities:
 
 ### Customers can do the following:
--** Sign Up/Login**: The customer can either create a new account or login with their
+- Sign Up/Login: The customer can either create a new account or login with their
 unique credentials.
 - Show all Categories: The customer can see all the available categories on the
 application
